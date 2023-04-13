@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-center{
+    text-align: center;
+}
+.titlr{
+    padding: 10px;
+}
+.contact-container{
+    width: 50%;
+    margin: 10px auto;
+}
+
+form{
+ 
+    padding: 25px;
+    border-radius: 10px;
+}
+.div-input{
+    margin-top: 20px;
+}
+.div-input input{
+width: 100%;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid black;
+}
+.div-input textarea{
+    width: 100%;
+    padding: 10px;
+    resize: none;
+}
+.div-input button{
+    width: 100%;
+    padding: 10px;
+}
+.text-base{
+    background-color: antiquewhite;
+    color: green;
+}
